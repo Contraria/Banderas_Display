@@ -1,0 +1,15 @@
+.caja {
+	height: 100px;
+}
+
+.gray {
+	background: gray;
+}
+
+.yellow{
+	background: yellow;
+}
+
+.inline-block{
+	display: inline-block;
+}

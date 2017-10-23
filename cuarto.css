@@ -1,0 +1,20 @@
+.caja{
+	height: 100px;
+	width: 200px;
+	margin-bottom: 8px;
+	padding: 8px;
+	box-sizing: border-box;
+	display: inline;
+	margin-right: 15px;
+}
+.gray{
+	background: gray;
+}
+
+.yellow{
+	background: yellow;
+}
+
+.inline-block{
+	display: inline-block;
+}
